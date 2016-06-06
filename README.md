@@ -8,6 +8,7 @@ d3.angular2 components will follow best practices for Angular 2 development, inc
 - Separation of Concerns
 - Customizability
 - 'Trickle down' component implementation
+
 d3. angular2 components will also follow the following conventions commonly used in D3 workflows:
 - Responsive width-based scaling using `seamlessRedraw()` functions
 - Data binding with D3's integrated `data()` function
